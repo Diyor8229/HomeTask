@@ -16,9 +16,6 @@
 //   default:
 //     console.log("We hope that this page looks ok!");
 // }
-// Agar browser da Edge qiymati bo'lsa faqat case "Edge" ishlidi va kod to'xtaydi,
-// Agar browser da case: Chrome, FireFox, Safari, Opera  shulardan qay biri kesaxam Okay dan boshlangan log ishlidi sababi orasida break yoq!
-// Agar xech bir case ga to'g'ri kemasa default qiymat ishlap ketadi
 
 
 
