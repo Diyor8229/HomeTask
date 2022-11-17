@@ -12,8 +12,8 @@
 //   case "Safari":
 //   case "Opera":
 //     console.log("Okay we support these browsers too");
-//     break;
-//   default:
+//      break;
+//      default:
 //     console.log("We hope that this page looks ok!");
 // }
 
